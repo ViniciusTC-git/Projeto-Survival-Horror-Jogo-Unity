@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Game\Scripts\Cenario\TriggerTrocaCenario.cs">
+    <Files>
+      <File FileName="Assets\Game\Scripts\Cenario\TriggerTrocaCenario.cs" Line="16" Column="21" />
+      <File FileName="Assets\Game\Scripts\Controller\CanvasController\MenuController\MenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Cenario\CenarioController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Cenario\Porta\TriggerEnterDoor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Cenario\Itens\TriggerPick.cs" Line="55" Column="4" />
+      <File FileName="Assets\Game\Personagem\Script\Inventario.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Personagem\Script\ControlePersonagem.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Controller\CanvasController\MenuController\PanelController\PanelItemPuzzle\ItemPuzzleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Game\Scripts\Controller\SaveState.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

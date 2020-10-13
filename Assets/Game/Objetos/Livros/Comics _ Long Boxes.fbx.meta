@@ -1,0 +1,658 @@
+fileFormatVersion: 2
+guid: 6d288a158bad5e24ea7ccbb293081b34
+timeCreated: 1584297311
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: AB1
+    100002: AB1 1
+    100004: AC868
+    100006: AC868 1
+    100008: ALLSM12
+    100010: ALLSM12 1
+    100012: AM46
+    100014: AM46 1
+    100016: AM5
+    100018: AM5 1
+    100020: AMZ230
+    100022: AMZ230 1
+    100024: AMZ39
+    100026: AMZ39 1
+    100028: ASM300
+    100030: ASM300 1
+    100032: Avengers1
+    100034: Avengers1 1
+    100036: AVJL2
+    100038: AVJL2 1
+    100040: Box
+    100042: Box 1
+    100044: BP16
+    100046: BP16 1
+    100048: Cap1
+    100050: Cap1 1
+    100052: ClosedBox
+    100054: Comics
+    100056: //RootNode
+    100058: Comics1
+    100060: CT2
+    100062: CT2 1
+    100064: DD1
+    100066: DD1 1
+    100068: DPC11
+    100070: DPC11 1
+    100072: DW4
+    100074: DW4 1
+    100076: FC4
+    100078: FC4 1
+    100080: FF242
+    100082: FF242 1
+    100084: GL1
+    100086: GL1 1
+    100088: GL101
+    100090: GL101 1
+    100092: GL49
+    100094: GL49 1
+    100096: GOT15
+    100098: GOT15 1
+    100100: GOW3
+    100102: GOW3 1
+    100104: GZ1
+    100106: GZ1 1
+    100108: HB28
+    100110: HB28 1
+    100112: IH77
+    100114: IH77 1
+    100116: IM421
+    100118: IM421 1
+    100120: JLA1
+    100122: JLA1 1
+    100124: JSA01
+    100126: JSA01 1
+    100128: Lid
+    100130: Lid 1
+    100132: LL2
+    100134: LL2 1
+    100136: MSM2
+    100138: MSM2 1
+    100140: MT1
+    100142: MT1 1
+    100144: MVW
+    100146: MVW 1
+    100148: OpenBox
+    100150: PM1
+    100152: PM1 1
+    100154: RK1
+    100156: RK1 1
+    100158: Sand8
+    100160: Sand8 1
+    100162: SD18
+    100164: SD18 1
+    100166: SG0
+    100168: SG0 1
+    100170: SM120
+    100172: SM120 1
+    100174: SM20991
+    100176: SM20991 1
+    100178: SM75
+    100180: SM75 1
+    100182: SS1
+    100184: SS1 1
+    100186: SS4
+    100188: SS4 1
+    100190: STM29
+    100192: STM29 1
+    100194: SW1
+    100196: SW1 1
+    100198: TFC221
+    100200: TFC221 1
+    100202: TMNT32
+    100204: TMNT32 1
+    100206: TMNT41
+    100208: TMNT41 1
+    100210: TMNT52
+    100212: TMNT52 1
+    100214: UXM168
+    100216: UXM168 1
+    100218: WW1
+    100220: WW1 1
+    100222: WW8
+    100224: WW8 1
+    100226: WW80
+    100228: WW80 1
+    100230: XM126
+    100232: XM126 1
+    100234: Z14
+    100236: Z14 1
+    400000: AB1
+    400002: AB1 1
+    400004: AC868
+    400006: AC868 1
+    400008: ALLSM12
+    400010: ALLSM12 1
+    400012: AM46
+    400014: AM46 1
+    400016: AM5
+    400018: AM5 1
+    400020: AMZ230
+    400022: AMZ230 1
+    400024: AMZ39
+    400026: AMZ39 1
+    400028: ASM300
+    400030: ASM300 1
+    400032: Avengers1
+    400034: Avengers1 1
+    400036: AVJL2
+    400038: AVJL2 1
+    400040: Box
+    400042: Box 1
+    400044: BP16
+    400046: BP16 1
+    400048: Cap1
+    400050: Cap1 1
+    400052: ClosedBox
+    400054: Comics
+    400056: //RootNode
+    400058: Comics1
+    400060: CT2
+    400062: CT2 1
+    400064: DD1
+    400066: DD1 1
+    400068: DPC11
+    400070: DPC11 1
+    400072: DW4
+    400074: DW4 1
+    400076: FC4
+    400078: FC4 1
+    400080: FF242
+    400082: FF242 1
+    400084: GL1
+    400086: GL1 1
+    400088: GL101
+    400090: GL101 1
+    400092: GL49
+    400094: GL49 1
+    400096: GOT15
+    400098: GOT15 1
+    400100: GOW3
+    400102: GOW3 1
+    400104: GZ1
+    400106: GZ1 1
+    400108: HB28
+    400110: HB28 1
+    400112: IH77
+    400114: IH77 1
+    400116: IM421
+    400118: IM421 1
+    400120: JLA1
+    400122: JLA1 1
+    400124: JSA01
+    400126: JSA01 1
+    400128: Lid
+    400130: Lid 1
+    400132: LL2
+    400134: LL2 1
+    400136: MSM2
+    400138: MSM2 1
+    400140: MT1
+    400142: MT1 1
+    400144: MVW
+    400146: MVW 1
+    400148: OpenBox
+    400150: PM1
+    400152: PM1 1
+    400154: RK1
+    400156: RK1 1
+    400158: Sand8
+    400160: Sand8 1
+    400162: SD18
+    400164: SD18 1
+    400166: SG0
+    400168: SG0 1
+    400170: SM120
+    400172: SM120 1
+    400174: SM20991
+    400176: SM20991 1
+    400178: SM75
+    400180: SM75 1
+    400182: SS1
+    400184: SS1 1
+    400186: SS4
+    400188: SS4 1
+    400190: STM29
+    400192: STM29 1
+    400194: SW1
+    400196: SW1 1
+    400198: TFC221
+    400200: TFC221 1
+    400202: TMNT32
+    400204: TMNT32 1
+    400206: TMNT41
+    400208: TMNT41 1
+    400210: TMNT52
+    400212: TMNT52 1
+    400214: UXM168
+    400216: UXM168 1
+    400218: WW1
+    400220: WW1 1
+    400222: WW8
+    400224: WW8 1
+    400226: WW80
+    400228: WW80 1
+    400230: XM126
+    400232: XM126 1
+    400234: Z14
+    400236: Z14 1
+    2300000: AB1
+    2300002: AB1 1
+    2300004: AC868
+    2300006: AC868 1
+    2300008: ALLSM12
+    2300010: ALLSM12 1
+    2300012: AM46
+    2300014: AM46 1
+    2300016: AM5
+    2300018: AM5 1
+    2300020: AMZ230
+    2300022: AMZ230 1
+    2300024: AMZ39
+    2300026: AMZ39 1
+    2300028: ASM300
+    2300030: ASM300 1
+    2300032: Avengers1
+    2300034: Avengers1 1
+    2300036: AVJL2
+    2300038: AVJL2 1
+    2300040: Box
+    2300042: Box 1
+    2300044: BP16
+    2300046: BP16 1
+    2300048: Cap1
+    2300050: Cap1 1
+    2300052: CT2
+    2300054: CT2 1
+    2300056: DD1
+    2300058: DD1 1
+    2300060: DPC11
+    2300062: DPC11 1
+    2300064: DW4
+    2300066: DW4 1
+    2300068: FC4
+    2300070: FC4 1
+    2300072: FF242
+    2300074: FF242 1
+    2300076: GL1
+    2300078: GL1 1
+    2300080: GL101
+    2300082: GL101 1
+    2300084: GL49
+    2300086: GL49 1
+    2300088: GOT15
+    2300090: GOT15 1
+    2300092: GOW3
+    2300094: GOW3 1
+    2300096: GZ1
+    2300098: GZ1 1
+    2300100: HB28
+    2300102: HB28 1
+    2300104: IH77
+    2300106: IH77 1
+    2300108: IM421
+    2300110: IM421 1
+    2300112: JLA1
+    2300114: JLA1 1
+    2300116: JSA01
+    2300118: JSA01 1
+    2300120: Lid
+    2300122: Lid 1
+    2300124: LL2
+    2300126: LL2 1
+    2300128: MSM2
+    2300130: MSM2 1
+    2300132: MT1
+    2300134: MT1 1
+    2300136: MVW
+    2300138: MVW 1
+    2300140: PM1
+    2300142: PM1 1
+    2300144: RK1
+    2300146: RK1 1
+    2300148: Sand8
+    2300150: Sand8 1
+    2300152: SD18
+    2300154: SD18 1
+    2300156: SG0
+    2300158: SG0 1
+    2300160: SM120
+    2300162: SM120 1
+    2300164: SM20991
+    2300166: SM20991 1
+    2300168: SM75
+    2300170: SM75 1
+    2300172: SS1
+    2300174: SS1 1
+    2300176: SS4
+    2300178: SS4 1
+    2300180: STM29
+    2300182: STM29 1
+    2300184: SW1
+    2300186: SW1 1
+    2300188: TFC221
+    2300190: TFC221 1
+    2300192: TMNT32
+    2300194: TMNT32 1
+    2300196: TMNT41
+    2300198: TMNT41 1
+    2300200: TMNT52
+    2300202: TMNT52 1
+    2300204: UXM168
+    2300206: UXM168 1
+    2300208: WW1
+    2300210: WW1 1
+    2300212: WW8
+    2300214: WW8 1
+    2300216: WW80
+    2300218: WW80 1
+    2300220: XM126
+    2300222: XM126 1
+    2300224: Z14
+    2300226: Z14 1
+    3300000: AB1
+    3300002: AB1 1
+    3300004: AC868
+    3300006: AC868 1
+    3300008: ALLSM12
+    3300010: ALLSM12 1
+    3300012: AM46
+    3300014: AM46 1
+    3300016: AM5
+    3300018: AM5 1
+    3300020: AMZ230
+    3300022: AMZ230 1
+    3300024: AMZ39
+    3300026: AMZ39 1
+    3300028: ASM300
+    3300030: ASM300 1
+    3300032: Avengers1
+    3300034: Avengers1 1
+    3300036: AVJL2
+    3300038: AVJL2 1
+    3300040: Box
+    3300042: Box 1
+    3300044: BP16
+    3300046: BP16 1
+    3300048: Cap1
+    3300050: Cap1 1
+    3300052: CT2
+    3300054: CT2 1
+    3300056: DD1
+    3300058: DD1 1
+    3300060: DPC11
+    3300062: DPC11 1
+    3300064: DW4
+    3300066: DW4 1
+    3300068: FC4
+    3300070: FC4 1
+    3300072: FF242
+    3300074: FF242 1
+    3300076: GL1
+    3300078: GL1 1
+    3300080: GL101
+    3300082: GL101 1
+    3300084: GL49
+    3300086: GL49 1
+    3300088: GOT15
+    3300090: GOT15 1
+    3300092: GOW3
+    3300094: GOW3 1
+    3300096: GZ1
+    3300098: GZ1 1
+    3300100: HB28
+    3300102: HB28 1
+    3300104: IH77
+    3300106: IH77 1
+    3300108: IM421
+    3300110: IM421 1
+    3300112: JLA1
+    3300114: JLA1 1
+    3300116: JSA01
+    3300118: JSA01 1
+    3300120: Lid
+    3300122: Lid 1
+    3300124: LL2
+    3300126: LL2 1
+    3300128: MSM2
+    3300130: MSM2 1
+    3300132: MT1
+    3300134: MT1 1
+    3300136: MVW
+    3300138: MVW 1
+    3300140: PM1
+    3300142: PM1 1
+    3300144: RK1
+    3300146: RK1 1
+    3300148: Sand8
+    3300150: Sand8 1
+    3300152: SD18
+    3300154: SD18 1
+    3300156: SG0
+    3300158: SG0 1
+    3300160: SM120
+    3300162: SM120 1
+    3300164: SM20991
+    3300166: SM20991 1
+    3300168: SM75
+    3300170: SM75 1
+    3300172: SS1
+    3300174: SS1 1
+    3300176: SS4
+    3300178: SS4 1
+    3300180: STM29
+    3300182: STM29 1
+    3300184: SW1
+    3300186: SW1 1
+    3300188: TFC221
+    3300190: TFC221 1
+    3300192: TMNT32
+    3300194: TMNT32 1
+    3300196: TMNT41
+    3300198: TMNT41 1
+    3300200: TMNT52
+    3300202: TMNT52 1
+    3300204: UXM168
+    3300206: UXM168 1
+    3300208: WW1
+    3300210: WW1 1
+    3300212: WW8
+    3300214: WW8 1
+    3300216: WW80
+    3300218: WW80 1
+    3300220: XM126
+    3300222: XM126 1
+    3300224: Z14
+    3300226: Z14 1
+    4300000: Lid
+    4300002: Box
+    4300004: Lid
+    4300006: Box
+    4300008: GL101
+    4300010: TMNT32
+    4300012: AMZ39
+    4300014: FF242
+    4300016: RK1
+    4300018: AMZ230
+    4300020: Cap1
+    4300022: AB1
+    4300024: WW80
+    4300026: XM126
+    4300028: BP16
+    4300030: GL1
+    4300032: STM29
+    4300034: SS1
+    4300036: SM120
+    4300038: UXM168
+    4300040: HB28
+    4300042: IH77
+    4300044: ALLSM12
+    4300046: DD1
+    4300048: ASM300
+    4300050: SS4
+    4300052: WW1
+    4300054: AM5
+    4300056: GL49
+    4300058: SM75
+    4300060: MVW
+    4300062: SW1
+    4300064: PM1
+    4300066: FC4
+    4300068: SM20991
+    4300070: TMNT41
+    4300072: IM421
+    4300074: AC868
+    4300076: TFC221
+    4300078: JSA01
+    4300080: Sand8
+    4300082: MT1
+    4300084: DW4
+    4300086: GZ1
+    4300088: WW8
+    4300090: GOW3
+    4300092: LL2
+    4300094: AM46
+    4300096: CT2
+    4300098: JLA1
+    4300100: Avengers1
+    4300102: AVJL2
+    4300104: Z14
+    4300106: MSM2
+    4300108: GOT15
+    4300110: SD18
+    4300112: DPC11
+    4300114: TMNT52
+    4300116: SG0
+    4300118: GL101
+    4300120: TMNT32
+    4300122: AMZ39
+    4300124: FF242
+    4300126: RK1
+    4300128: AMZ230
+    4300130: Cap1
+    4300132: AB1
+    4300134: WW80
+    4300136: XM126
+    4300138: BP16
+    4300140: GL1
+    4300142: STM29
+    4300144: SS1
+    4300146: SM120
+    4300148: UXM168
+    4300150: HB28
+    4300152: IH77
+    4300154: ALLSM12
+    4300156: DD1
+    4300158: ASM300
+    4300160: SS4
+    4300162: WW1
+    4300164: AM5
+    4300166: GL49
+    4300168: SM75
+    4300170: MVW
+    4300172: SW1
+    4300174: PM1
+    4300176: FC4
+    4300178: SM20991
+    4300180: TMNT41
+    4300182: IM421
+    4300184: AC868
+    4300186: TFC221
+    4300188: JSA01
+    4300190: Sand8
+    4300192: MT1
+    4300194: DW4
+    4300196: GZ1
+    4300198: WW8
+    4300200: GOW3
+    4300202: LL2
+    4300204: AM46
+    4300206: CT2
+    4300208: JLA1
+    4300210: Avengers1
+    4300212: AVJL2
+    4300214: Z14
+    4300216: MSM2
+    4300218: GOT15
+    4300220: SD18
+    4300222: DPC11
+    4300224: TMNT52
+    4300226: SG0
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
